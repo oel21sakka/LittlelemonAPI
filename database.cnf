@@ -1,0 +1,7 @@
+[client]
+database = littlelemon
+user = django
+password = 1234@Django
+host = 127.0.0.1
+port = 3306
+default-character-set = utf8
